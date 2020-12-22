@@ -1,7 +1,7 @@
 ### Hello 👋, I'm Saypa 🙃
 
 ## I'm a teenager interested by development!
-- 🧸 Currently, I'm learning JS
+- 🧸 Currently, I'm learning JS, for the purpose of making ElectronJS apps
 - 👀 So you can see my Github as a training place
 
 ### Wanna talk with me ?
